@@ -1,0 +1,16 @@
+.footer {
+	&-p {
+		margin-bottom: 0;
+		margin-top: 0;
+		background-color: $color-secundario;
+		color: $color-secundario;
+	}
+	&__p {
+		margin-bottom: 0;
+		margin-top: 0;
+		padding: 25px;
+		text-align: center;
+		background-color: #282931;
+		color: $color-claro;
+	}
+}
